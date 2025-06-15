@@ -1,3 +1,3 @@
-# cubit_app
+# Cubit Task 1
 
-A new Flutter project.
+
